@@ -19,5 +19,5 @@ Website project built using the most important React features (components, props
 
 ### Live Version
 
-demo-react-six-beta.vercel.app
+https://demo-react-six-beta.vercel.app/
 
